@@ -21,4 +21,4 @@ Note: This script assumes CentOS 7 as the operating system and requires the PiVP
 
 Feel free to modify the script to fit your specific environment and requirements.
 
-# please don't forget to run this command after creating the file or downloading chmod +x vpn.sh
+### Please don't forget to run this command after creating the file or downloading `chmod +x vpn.sh`
